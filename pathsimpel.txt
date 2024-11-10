@@ -11,6 +11,6 @@
 4.193.111.126,40809,SG,Microsoft Corporation
 62.72.46.14,8443,SG,Contabo Asia Private Limited
 139.162.21.235,449,SG,Akamai Connected Cloud
-8.215.25.225,40422,SG,Alibaba (US) Technology Co., Ltd.
+8.222.129.175,58808,SG,Alibaba (US) Technology Co., Ltd.
 138.2.74.219,28616,SG,Oracle Corporation
 54.255.212.177,449,SG,Amazon.com, Inc.
