@@ -12,7 +12,7 @@
 192.53.113.156,587,SG,Akamai Connected Cloud
 8.222.129.175,58808,SG,Alibaba (US) Technology Co., Ltd.
 138.2.74.219,28616,SG,Oracle Corporation
-54.169.229.188,443,SG,Amazon.com, Inc.
+54.169.229.188,443,SG,Amazon.com.Inc.
 139.180.215.77,57878,SG,Vultr
 47.252.69.111,32853,US,Alibaba
 74.48.4.29,37731,US,Multacom Corporation
