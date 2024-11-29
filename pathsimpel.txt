@@ -1,16 +1,24 @@
 103.168.146.169,20132,ID,PT Herza Digital Indonesia
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
-111.95.40.14,32414,ID,Linknet-Fastnet ASN
 203.194.112.119,8443,ID,CV. Rumahweb Indonesia
 103.186.1.209,8443,ID,PT Cloud Hosting Indonesia
 103.133.223.50,2096,ID,PT Cloud Teknologi Nusantara
 8.215.25.225,40422,ID,Alibaba (US) Technology Co., Ltd.
 43.133.145.156,53136,ID,Tencent Building, Kejizhongyi Avenue
-157.230.240.71,9532,SG,DigitalOcean, LLC
+143.198.85.62,18163,SG,DigitalOcean, LLC
 91.192.81.154,2053,SG,Melbikomas UAB
 4.193.111.126,40809,SG,Microsoft Corporation
 62.72.46.14,8443,SG,Contabo Asia Private Limited
-139.162.21.235,449,SG,Akamai Connected Cloud
+192.53.113.156,587,SG,Akamai Connected Cloud
 8.222.129.175,58808,SG,Alibaba (US) Technology Co., Ltd.
 138.2.74.219,28616,SG,Oracle Corporation
-54.255.212.177,449,SG,Amazon.com, Inc.
+54.169.229.188,443,443,SG,Amazon.com, Inc.
+139.180.215.77,57878,SG,Vultr
+47.252.69.111,32853,US,Alibaba
+74.48.4.29,37731,US,Multacom Corporation
+45.8.146.85,2061,US,Stark Industries Solutions LTD
+213.218.238.179,2053,GB,OVHcloud
+158.101.146.3,44872,JP,Oracle Cloud
+125.204.173.119,10884,JP,NTT
+149.28.22.198,8443,JP,Vultr
+138.2.12.103,14453,JP,Cloudflare Warp
