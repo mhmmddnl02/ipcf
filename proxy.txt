@@ -2,23 +2,23 @@
 203.194.112.119,2053,ID,Rumahweb
 8.215.25.225,40422,ID,Alibaba us Technology Co., Ltd.
 35.219.15.90,443,ID,Google LLC
-172.232.239.249,587,ID,Akamai Connected Cloud
-103.186.1.209,2053,ID,PT Cloud Hosting Indonesia
-43.133.145.156,53136,ID,Tencent cloud computing
-103.6.207.108,8080,ID,PT Pusat Media Indonesia
-103.133.223.50,2096,ID,Cloud Teknologi Nusantara
-103.133.223.52,2096,ID,Cloud Teknologi Nusantara
-103.186.1.209,8443,ID,PT Cloud Hosting Indonesia
-103.133.223.51,2096,ID,Cloud Teknologi Nusantara
-172.232.239.175,587,ID,Akamai Connected Cloud
 91.192.81.154,2053,SG,Melbikomas UAB
 62.72.46.14,8443,SG,Contabo Asia Private Limited
+143.42.66.91,443,SG,Akamai Technologies
+188.166.241.181,2053,SG,Digitalocean LLC
+150.230.27.23,16504,CA,Oracle Corporation
+163.172.89.158,81,FR,SCALEWAY S.A.S.
+138.3.214.161,2086,JP,Oracle Corporation
+103.133.223.51,2096,ID,Pt Cloud Teknologi
+35.219.15.90,443,ID,Google LLC
+130.61.222.184,443,DE,Oracle Corporation
 47.236.181.185,8443,SG,Alibaba
 188.166.255.195,8443,SG,Digital Ocean
 47.236.22.194,52324,SG,Alibaba
 161.117.249.114,2025,SG,Alibaba Cloud
 194.127.193.240,50791,SG,Leaseweb Asia
 210.186.12.244,443,MY,TIME Fibre Optic
+172.232.239.249,587,ID,Akamai Connected Cloud
 103.180.161.10,587,SG,HONG KONG Megalayer Technology Co
 15.235.197.205,587,SG,OVHcloud
 154.90.39.188,48071,MY,LightNode_Limited
@@ -29,27 +29,35 @@
 143.198.213.197,443,SG,Digital Ocean
 129.150.49.58,18650,SG,Oracle Cloud
 146.235.16.65,15174,SG,Oracle Cloud
+103.186.1.209,2053,ID,PT Cloud Hosting Indonesia
 143.198.85.62,18163,SG,Digital Ocean
 45.77.171.102,3128,SG,Vultr
+43.133.145.156,53136,ID,Tencent cloud computing
 8.222.129.175,58808,SG,Alibaba
 8.222.212.110,1103,SG,Alibaba
 168.138.178.6,19990,SG,Oracle Cloud
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+103.133.223.50,2096,ID,Cloud Teknologi Nusantara
 38.181.70.7,16240,SG,Eons Data Communications
 129.150.50.63,443,SG,Oracle Cloud
 47.245.95.160,1443,SG,Alibaba
 94.237.75.31,62174,SG,UpCloud
 192.53.113.156,587,SG,Akamai Connected Cloud
 54.169.229.188,443,SG,Amazoncom
+103.133.223.52,2096,ID,Cloud Teknologi Nusantara
 47.236.173.166,587,SG,Alibaba
 47.74.254.191,8900,SG,Alibaba
 54.251.167.101,443,SG,Amazoncom
 45.32.100.46,13802,SG,Vultr
+103.186.1.209,8443,ID,PT Cloud Hosting Indonesia
+103.133.223.51,2096,ID,Cloud Teknologi Nusantara
 8.219.237.57,31523,SG,Alibaba
 47.236.246.163,14108,SG,Alibaba
 139.180.136.178,29806,SG,Vultr
 103.180.161.123,587,SG,HONG KONG Megalayer Technology Co
 213.35.108.135,12596,SG,Oracle Cloud
 139.162.48.174,10000,SG,Akamai Connected Cloud
+172.232.239.175,587,ID,Akamai Connected Cloud
 8.219.197.113,45714,SG,Alibaba
 8.219.163.164,36261,SG,Alibaba
 206.206.76.208,8443,SG,Regxa Cloud
